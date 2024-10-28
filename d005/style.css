@@ -3,6 +3,7 @@
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 20px;
+            background-color: blanchedalmond;
         }
         h1, h2 {
             color: #333;
@@ -11,6 +12,9 @@
             max-width: 150px;
             height: auto;
             vertical-align: middle;
+            margin: auto 10px;
+            border-radius: 500px 500px 500px 500px;
+            
         }
         ul {
             list-style-type: none;
@@ -26,4 +30,5 @@
         a:hover {
             text-decoration: underline;
         }
-    
+        
+       
